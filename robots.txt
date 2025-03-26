@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lwp-520.github.io/liweipenggame/sitemap.xml 
